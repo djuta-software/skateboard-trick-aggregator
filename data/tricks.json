@@ -1,6 +1,590 @@
 [
     {
-        "categoryId": "aerial",
+        "id": "freestyle",
+        "category": "Freestyle",
+        "tricks": [
+            {
+                "id": "freestyle-5050-truckstandprimo",
+                "trickName": "50/50 Truckstand/primo",
+                "trickDescription": "A 50/50 truckstand is when the board is balanced nearly vertical with the back foot standing on the truck and the front hand holding the nose. The typical way to perform a 50/50 truckstand is to put the board into nosestop, grasp the board with the back hand, jump and toss it to the front hand and land with the back foot on the truck, then execute a half-finger flip to land it.\n"
+            },
+            {
+                "id": "freestyle-casper",
+                "trickName": "Casper",
+                "trickDescription": "A freestyle stance where the skateboard is upside down and balanced on the point of the tail. The skater's back foot is on the underside of the tail and the front foot is hooked under the deck (touching the front foot to the ground is not a proper Casper). Named for inventor Bobby \"Casper\" Boyden.\n"
+            },
+            {
+                "id": "freestyle-railstand",
+                "trickName": "Railstand",
+                "trickDescription": "In a Railstand, the skateboard is balanced on one edge with the rider standing on the opposite edge, usually with the feet also on the wheels. This position can be used as a set-up for many other tricks, and was invented in the 1970s by Bobby \"Casper\" Boyden.\n"
+            },
+            {
+                "id": "freestyle-360-spin",
+                "trickName": "360 Spin",
+                "trickDescription": "1970s skate competitions such as the ones shown in Lords of Dogtown would often have an event to see who could do the most consecutive 360 spins on a skateboard. Variations include one-foot spins (on the nose or tail, or grabbing the foot while spinning), two-foot spins (on the nose or tail), crossfoot spins, two-board spins, etc.\n"
+            },
+            {
+                "id": "freestyle-bigspin",
+                "trickName": "Bigspin",
+                "trickDescription": "A trick in which the board rotates 360-degrees while the skateboarder turns 180 degrees in the same direction above it. If the skateboarder rotates in the opposite direction of the skateboard it is called Anti-Bigspin. This can be done in any direction from any position, and in freestyle is often done following a Casper.\n"
+            },
+            {
+                "id": "freestyle-gazelle",
+                "trickName": "Gazelle",
+                "trickDescription": "A Gazelle is a 540-degree rotation of the board while the rider spins 360 degrees in the same direction above it. It is usually done off the front end of the board and spun backside while travelling forwards, but can be done in any direction and combined with flips. Effectively, this is the next step up from a Bigspin.\n"
+            },
+            {
+                "id": "freestyle-shove-it",
+                "trickName": "Shove-it",
+                "trickDescription": "A Shove-it is a 180-degree spin (instead of a flip) of the board. The name may have qualifiers added to describe the direction of spin (frontside or backside) or a higher amount of spin. In freestyle, the trick is usually performed off the front of the board while riding forwards, which helps ensure flat and fast spins. In streetstyle, Shove-Its are often popped (called a Pop Shuvit) from either end of the board. Frontside or backside rotations are possible. A Shove-it should spin totally flat, in contrast to an Impossible which should spin totally vertical.\n"
+            },
+            {
+                "id": "freestyle-walk-the-dog",
+                "trickName": "Walk The Dog",
+                "trickDescription": "A footwork trick which spins the board.  The front foot is positioned in the middle of the board while the back foot steps to the nose and brings it backwards, spinning the board 180 degrees. With practice, this trick can be done in quick repetition – or backwards – though a slow performance can create an illusion of speed.\n"
+            },
+            {
+                "id": "freestyle-end-over",
+                "trickName": "End-Over",
+                "trickDescription": "An End-Over is a series of 180-degree pivots, beginning on the nose (or the tail when rolling fakie). Pressure is placed on the nose to lift the back wheels, then the rider quickly turns 180 degrees (frontside or backside), pivoting on the nose while maintaining speed and direction of travel. One pilot is immediately followed by another in the opposite rotation; when these pivots are done in consecutive lines, they are considered End-Overs (end-over-end). It is not uncommon to mix more difficult pivots in to a sequence of End-Overs, such as a 360 pivot or one-foot pivot.\n"
+            },
+            {
+                "id": "freestyle-butter-flip",
+                "trickName": "Butter Flip",
+                "trickDescription": "The Butter Flip is executed following a Heelside Railstand. Both feet hop to one side of the board, side by side with no more than a 2-inch (5 cm) gap. The rider puts pressure onto the end of the board, using the foot that is not on the wheel. This pops the board up, allowing it to be grasped with the hand opposite the foot which applied pressure. This trick is used to transition from Heelside Railstand to a Pogo or 50/50. The board can also be caught with the foot, making it a Butter Flip to a No Handed 50/50. The trick is named for its inventor, Keith Butterfield.\n"
+            },
+            {
+                "id": "freestyle-fingerflip",
+                "trickName": "Fingerflip",
+                "trickDescription": "A Fingerflip uses a flick of the fingers to flip the skateboard. Typically, the rider rolls forward, grabs the nose of the board with the front hand, then simultaneously jumps and flips the unweighted board with their hand. The rider will then come down on the board or catch the board in mid-air. There are numerous variations including the Double Fingerflip, Varial Fingerflip, Backhand Fingerflip, and 360 Fingerflip, and Fakie versions of these. Ollie Fingerflip variations are considered to be more difficult because the rider must Ollie before initiating the Fingerflip. Professional freestyler Darryl Grogan is known for his Ollie 360 Fingerflip, and Rodney Mullen is known to use an Ollie Varial Fingerflip in many of his runs and videos.\n"
+            },
+            {
+                "id": "freestyle-kickflip",
+                "trickName": "Kickflip",
+                "trickDescription": "This trick begins with the rider positioned with feet side-by-side pointed toward the nose; one foot (typically the back foot) is hooked around the edge of the board. The opposite foot pushes down and the hooked foot kicks sideways as the rider jumps, the rider's body turning to land in a normal riding position. Invented by Curt Lindgren. \n"
+            },
+            {
+                "id": "freestyle-kickback",
+                "trickName": "Kickback",
+                "trickDescription": "A trick involving a half flip backwards followed by one-and-a-half flips forwards. From a stance with the front foot on the front bolts and the toes of the back foot along the heelside edge in the middle of the board, it can be accomplished by pushing down on the toes of the back foot, then jumping, kicking the board forwards, and catching it on the grip tape.\n"
+            },
+            {
+                "id": "freestyle-ollie",
+                "trickName": "Ollie",
+                "trickDescription": "The Ollie is a trick in which the rider and board leap into the air without use of the rider's hands. The rider stomps on the tail of the board to bring it mostly vertical, jumps, bends the knees as the skateboard springs up, and slides the front foot forward to level the skateboard at the peak of the jump. It was originally developed by Alan \"Ollie\" Gelfand in a bowl, and bought to flat ground by Rodney Mullen. It is considered a fundamental skill in skateboarding, needed to leap onto, over, or off of obstacles.\n"
+            },
+            {
+                "id": "freestyle-pogo",
+                "trickName": "Pogo",
+                "trickDescription": "A trick in which the skateboard is used like a pogo stick. The board is held vertical against the boarder's legs, with one foot on the bottom truck and one or both hands holding the nose to lift the board up as the rider hops. It can also be done by squeezing the board between both legs in a no-handed variant, or stood with one foot on the truck and the other crossed over behind it with the toes of that foot pushing against the griptape for a cross-footed pogo.\n"
+            },
+            {
+                "id": "freestyle-primo-slide",
+                "trickName": "Primo Slide",
+                "trickDescription": "This trick requires balancing like a Railstand but is done while moving, with the side of the board sliding along the ground. Invented by Primo Desiderio, the original version involved sliding backside 180 degrees, but many skaters now hold them in a straight line, flipping into and out of them.\n"
+            },
+            {
+                "id": "freestyle-coconut-wheelie-coco-slide",
+                "trickName": "Coconut Wheelie, Coco Slide",
+                "trickDescription": "A Coconut Wheelie or Coco Slide is like a Primo Slide but the deck never touches the ground, instead being held in a Wheelie on the side. This trick was invented by coach Vince W.[1] Variations include handstands, grabs, transfer to spacewalk, etc.\n"
+            },
+            {
+                "id": "freestyle-calf-wrap-(flamingofigure-four)",
+                "trickName": "Calf Wrap (Flamingo/Figure Four)",
+                "trickDescription": "A trick in which the skater uses one foot to wrap the board around the calf of their opposite leg, which is planted on the ground, then unwraps it to land in a riding position. An earlier version of this trick was called \"Flamingo\" or \"Figure Four\" for the stance of the legs in mid-trick, with the board touching the inside knee or thigh. This was not often used until the faster calf-wrap version was developed to accommodate a backside 180 re-entry on banks and ramps. The trick was invented by Derek Belen, and developed and popularized by Mike Vallely, Rey Gregorio, Dorian Tucker and Kris Markovich.\n"
+            },
+            {
+                "id": "freestyle-manual",
+                "trickName": "Manual",
+                "trickDescription": "A Manual is a trick similar to a bicycle wheelie where the skateboarder balances with only the front or the back wheels touching the ground. Manuals can be done with either or both feet or on a single wheel. A Manual in which both feet are straight on the nose is called a Hang Ten; its tail counterpart is called a Heelie. English Manuals place the back foot at the back bolts and the front foot underneath the nose, hooking the board up until balance is achieved. The Swedish Manual (likely named after Stefan \"Lillis\" Akesson) places the front foot on the nose pointing forward and the back toes are used to hook the tail up in a Nose Manual.\n"
+            },
+            {
+                "id": "freestyle-impossible",
+                "trickName": "Impossible",
+                "trickDescription": "In an Impossible, the board wraps vertically over the back foot in a 360-degree rotation. An early version of the trick (now called a Nosehook Impossible) involved hooking the front foot under the nose to lift the board before the back foot began its scoop; later, Rodney Mullen developed the technique by popping in an Ollie from a regular riding position. There are many variations of both the Nosehook Impossible and the Ollie Impossible. Darryl Grogan was the first to land Impossibles Crossfooted, Halfcab, and to make a one-foot landing, while Mullen has done many variations off the nose, known as Nollie Impossibles.\n"
+            },
+            {
+                "id": "freestyle-broken-fingers",
+                "trickName": "Broken Fingers",
+                "trickDescription": "This is a Half Truckhook Impossible caught in a 50/50. The rider stands on the tail, puts the front foot under the board, and jumps backwards while scooping the board in front. This will cause the board to flip upside-down. The rider catches the tail of the board with the front hand and lands with the foot which was under the board on the truck. This trick got the name \"Broken Fingers\" due to the danger involved: failing to jump high enough or lean back sufficiently on the landing can result in crushed fingers. A no-handed version of this trick is referred to as a crossfooted Half Truckhook Impossible caught into a No-Handed 50/50.\n"
+            },
+            {
+                "id": "freestyle-casper-disaster",
+                "trickName": "Casper Disaster",
+                "trickDescription": "Also invented by Bobby \"Casper\" Boyden, this trick has no relation to the Casper stance. While rolling fakie or nollie, the skater enters a Heelside Railstand one footed. The foot that is not touching the wheel will point down and nudge the griptape side of the skateboard while the rider spins 180 degrees towards the direction of the trucks. After the board and rider have rotated 180 degrees, the feet work together to nudge the skateboard down into a rolling position.\n"
+            },
+            {
+                "id": "freestyle-carousel",
+                "trickName": "Carousel",
+                "trickDescription": "This is a specific truck-to-truck transfer, which may be considered as a half Impossible from a 50/50 to a switch 50/50 – still standing on the back foot. The rider starts from a 50/50, \"throws\" the board over the foot that stands on the truck and jumps up. When the board has done the \"half wrap\", the rider lands on the truck and catches the nose of the board with the same hand used to flip it. In 2014, Marco Sassi became the first person to do a 360 Carousel, completing a full impossible around the foot to land back in the original 50/50 position. (By July 2015[needs update] only two other freestylers have accomplished this.)\n"
+            },
+            {
+                "id": "freestyle-fan-flip",
+                "trickName": "Fan Flip",
+                "trickDescription": "A Fan Flip begins from a Pogo stance. The rider jumps up, fingerflips (typically with the front hand), and kicks to the side, landing on the truck in a Pogo stance (usually on the same side).\n"
+            },
+            {
+                "id": "freestyle-gingersnap",
+                "trickName": "Gingersnap",
+                "trickDescription": "While in a Hang Ten (Manual) position, the skater pops down on the nose, causing the board to do a Nollie Hardflip motion, traveling vertically between the riders legs and landing back in normal position. If the half flip is done with a Nosegrab, the trick is referred to as a Hazze Flip, named for Hazze Lindgren.\n"
+            },
+            {
+                "id": "freestyle-godzilla-flip",
+                "trickName": "Godzilla Flip",
+                "trickDescription": "This trick involves standing with one foot on the board in Tailstop and spinning the board in an Impossible around that foot with a hand. Either foot and either hand can be used, but neither foot should touch the ground. Not to be confused with the Godzilla Railflip, which is a Triple Varial Railflip with a Body Varial.\n"
+            },
+            {
+                "id": "freestyle-helipop",
+                "trickName": "Helipop",
+                "trickDescription": "A backside 360 Nollie, performed by beginning a pivot just before initiating a Nollie, with the front foot on the nose of the board and the back foot in Nollie Heelflip position. Invented by Rodney Mullen. If a full 360 cannot be achieved, the rider may recover by landing in a 270 and pivoting the rest of the way on the back wheels. Variations: grabs, frontside, flips out.\n"
+            },
+            {
+                "id": "freestyle-m-80",
+                "trickName": "M-80",
+                "trickDescription": "This trick begins with a Kickflip, turning the rider's body in the air to catch the board with the back foot on the nose, pivoting 180 degrees on the front wheels before the back wheels hit the ground. It was invented by Matt Barden in 1980. Many variations have been developed, including a Nose M-80 (which omits the body varial and lands the front foot on the nose), fakie and double flip versions.\n"
+            },
+            {
+                "id": "freestyle-no-comply",
+                "trickName": "No Comply",
+                "trickDescription": "In this trick the front foot slides off the side of the board, with the body weight on the back foot over the tail; the board then snaps upwards and the rider jumps, guiding the board with the back leg or knee, and returns the front foot into contact with the board. This trick has many variations, including 180, 360, Varials, Flips, Fingerflips, Impossibles, etc. Ray Barbee is noted as a master of No Comply variations to many who have watched the earlier Powell videos.\n"
+            },
+            {
+                "id": "freestyle-ollie-airwalk",
+                "trickName": "Ollie Airwalk",
+                "trickDescription": "This trick is a combination of an Ollie with an Airwalk.[clarification needed] The rider initiates an Ollie and grabs the board with the front hand, while kicking the front foot forward and the back foot backwards (diagonal to the riding direction). This trick was invented by Rodney Mullen, and has many variations, including fingerflips and 180 spins.\n"
+            },
+            {
+                "id": "freestyle-pressure-flip",
+                "trickName": "Pressure Flip",
+                "trickDescription": "This is a flip using only one foot (either), with the board launched into the air and flipped with one motion. Like Ollie Flips, Pressure Flips can be done nollie or fakie in any combination of flipping and rotational directions. The trick most commonly spins backside, flipping in a heelflip direction, resulting in something similar to an Inward Heelflip.\n"
+            },
+            {
+                "id": "freestyle-san-francisco-flip",
+                "trickName": "San Francisco Flip",
+                "trickDescription": "The San Francisco Flip is a type of a Truck-To-Transfer where the rider enters a No-Handed 50/50 and does a No-Handed Carousel to a Crossfoot No-Handed 50/50. Invented by Guenter Mokulys.\n"
+            },
+            {
+                "id": "freestyle-saran-wrapwrap-around",
+                "trickName": "Saran Wrap/Wrap Around",
+                "trickDescription": "Invented by Rodney Mullen, and usually done from a Pogo or a 50/50, this trick involves the front leg tracing a circle around the nose of the board without touching the ground. Experienced skaters can do several Saran Wraps continuously.\n"
+            },
+            {
+                "id": "freestyle-scarewalk",
+                "trickName": "Scarewalk",
+                "trickDescription": "A scarewalk is a back-handed Airwalk,[clarification needed] resulting in the board being held in close proximity to the rider's crotch (hence the name). It is sometimes erroneously thought to merely be an Airwalk with the legs kicked in the opposite direction.[citation needed]\n"
+            },
+            {
+                "id": "freestyle-sidewinder",
+                "trickName": "Sidewinder",
+                "trickDescription": "A truck-to-truck transfer where the rider switches from a pogo on one truck to a pogo on the other truck with the board upside-down throughout. During the trick, the board turns over about 90 degrees. Variations: switch foot, same foot and flips.\n"
+            },
+            {
+                "id": "freestyle-spacewalk",
+                "trickName": "Spacewalk",
+                "trickDescription": "Another kind of \"Walk\" in freestyle skateboarding. The rider enters a Manual on two wheels and swings the other end of the board from side-to-side; the other set of wheels should not touch the ground during the trick. The wider the swing, the better the Spacewalk looks. The Many variations exist including Nose Spacewalks, Hang Ten Spacewalks, Backward Spacewalks, One-Knee-Kneeled Spacewalks (invented by Günter Mokulys) and many more.\n"
+            },
+            {
+                "id": "freestyle-tv-stand",
+                "trickName": "TV Stand",
+                "trickDescription": "A TV Stand is a handstand done in a 50/50. While in a 50/50 or Pogo, the rider grabs the bottom truck (the one with the back foot on) and performs a handstand with the other hand holding the nose of the board. The trick is landed by doing a half flip. A variation when grabbing the top truck is called a \"Jawbreaker\", invented by Primo Desiderio.\n"
+            },
+            {
+                "id": "freestyle-varial-kickflipheelflip",
+                "trickName": "Varial kickflip/heelflip",
+                "trickDescription": "A kickflip or heelflip with a twist; the kickflip is combined with a backside shove-it, and a heelflip is combined with a frontside one.\n"
+            },
+            {
+                "id": "freestyle-daffy",
+                "trickName": "Daffy",
+                "trickDescription": "This trick is done with two boards, one foot in a tailwheelie on one board and the other foot on the second board in a nosewheelie.[2] It is one of the oldest freestyle tricks and has been featured in the Girl Skateboards video Yeah Right!, Gus Van Sant's film Paranoid Park, and the Lords of Dogtown movie. The Tony Hawk's Underground game calls this a Yeah Right Manual.\n"
+            }
+        ]
+    },
+    {
+        "id": "slide",
+        "category": "Slide",
+        "tricks": [
+            {
+                "id": "slide-anti-casper-slide",
+                "trickName": "Anti-Casper Slide",
+                "trickDescription": "Performed by flipping the board into a nosecasper via half impossible and sliding on the nose in a nose casper position."
+            },
+            {
+                "id": "slide-bananaslide",
+                "trickName": "Bananaslide",
+                "trickDescription": "A combination of a tailslide and a nose slide between two obstacles at the same time. Rarely seen as not many obstacles allow you to do this trick"
+            },
+            {
+                "id": "slide-bertslide",
+                "trickName": "Bertslide",
+                "trickDescription": "A four-wheeled slide where the skateboarder puts one hand on the ground and rotates the board while it is still on the ground, effectively sliding on the wheels of the skateboard.[1] The trick was named after the surfer Larry Bertlemann, who performed the trick in his surfing routine.[2] It was then popularized by the Z-Boys, who adapted the move by extending the slide to 360 or even 540 degrees.[2]"
+            },
+            {
+                "id": "slide-bluntslide",
+                "trickName": "Bluntslide",
+                "trickDescription": "Performed by ollieing over/onto the obstacle and fitting the edge/rail between the tail and back truck of one's skateboard and sliding. Can be performed on flat ground (called a bluntstop)[3] or downhill, possibly with only the tip of the board sliding on the street and all four wheels lifted."
+            },
+            {
+                "id": "slide-boardslide-aka-railslide",
+                "trickName": "Boardslide, aka railslide",
+                "trickDescription": "The board straddles the obstacle perpendicularly as the skateboarder slides along the center of the board. Most commonly when people refer to boardslides, it is a backside boardslide unless stated otherwise. The basic board slide also goes by many names, like: \"back board,\" \"bs board,\" \"b-slide,\" and heavily depends on your vernacular."
+            },
+            {
+                "id": "slide-casperslide",
+                "trickName": "Casperslide",
+                "trickDescription": "A casperslide is performed by flipping the board into an up-side down state with one foot on the bottom (now top) of the tail and the front foot underneath the front truck (griptape side) and sustaining momentum, thus sliding on the tip of the board's concave. It  can be performed on rails (rarely done) or flat ground. Often Attributed to Rodney Mullen."
+            },
+            {
+                "id": "slide-cess-slide",
+                "trickName": "Cess Slide",
+                "trickDescription": "This is a four-wheeled slide performed on inclines, banks, ditches, and transition. most common riding frontside or straight up the transition. At the peak of momentum, the rider unweights the board and slides the back wheels up to 'catch up' with the rest of the body at 90 degrees. Then as  the body's momentum returns, the rider pivots the back truck while sliding the front wheels 90 degrees back toward the bottom of the incline.  Simply put, backside shred up, pivot back down. A fun lazy way of riding transition backside. if you ride up frontside, you do this trick in a backside 'alley-oop' fashion. This is also very common in backyard pool riding, due to the benefits of 'feeling' your way around the cement."
+            },
+            {
+                "id": "slide-coleman-slide",
+                "trickName": "Coleman Slide",
+                "trickDescription": "This is where a rider wearing sliding gloves performs a frontside slide using their downhill hand with the glove to break the wheels free of traction while swinging the uphill hand close to the body to revert the board back from the initial slide in a pendulum motion. Named after slalom champion and sliding godfather Cliff Coleman, it is regarded as a staple trick in downhill sliding because it allows riders to see what is coming at them (objects, cars, hazards) all while in control, as well as allow them to slow down. A Coleman slide can also be used to initiate a frontside spin if the rider ends the slide at 180 degrees instead of swinging back to the original stance with a pendulum. If the rider flows into a backside slide with one smooth motion, it is possible to do 360 spins and more."
+            },
+            {
+                "id": "slide-crail-slide",
+                "trickName": "Crail Slide",
+                "trickDescription": "This is a tailslide where the skater grabs the nose of the board with the back hand while sliding. Usually performed on a ramp. It comes from the same idea as the more popular Lien Slide, in that in both tricks the skater grabs the board to help put it in position for the tailslide. Since the invention of the Ollie, it is more common to Ollie into a tailslide."
+            },
+            {
+                "id": "slide-darkslide",
+                "trickName": "Darkslide",
+                "trickDescription": "The Dark slide is a seemingly complicated looking trick in which the rider approaches a ledge or rail and does a flip trick onto the obstacle so that the rider lands on the board upside down with their feet on the nose and the tail and slides across the obstacle. Generally a half-kickflip or half-heelflip is the flip trick used to get into a darkslide. Created by Mark Gonzales in 1991.[4]"
+            },
+            {
+                "id": "slide-flat-spin",
+                "trickName": "Flat spin",
+                "trickDescription": "A hands-down rotation in the Surrender position. The slide can either be initiated by diving forward into a surrender slide and slinging the board around with your legs, or by doing a frontside or backside 360 and continuing the spin in a surrender position. Skilled riders can rotate as much as 1440 degrees or even more (there is no official record). Once the technique is perfected it allows you to rotate fast and slide very far while losing very little momentum due to the rider's weight being on his gloves when his board is sliding and on his board when it is pointing downhill and rolling."
+            },
+            {
+                "id": "slide-layback",
+                "trickName": "Layback",
+                "trickDescription": "Also known as a Sergio slide (named after the Brazilian inventor of the move, Sergio Yuppie), a layback is a frontside slide performed while riding downhill by placing your uphill hand on the ground behind the tail of your board and breaking the rear wheels out of traction. From here you can rotate 180 degrees, swing a pendulum, or hold the slide at 90 degrees and thrust your pelvis upward to unweight the board, resulting in a longer slide. The last variation is considered to be the most challenging and stylish, but often results in flat spots on your wheels. Like all hands-down slides, this trick requires slide gloves to be executed at speed."
+            },
+            {
+                "id": "slide-lipslide",
+                "trickName": "Lipslide",
+                "trickDescription": "Similar to a boardslide only the skater turns 90 degrees so that the trailing trucks are placed over the rail/ledge/coping and the skater slides on the middle of the board. Considered more complex than a boardslide due to the rotation over the obstacle at the beginning into the trick and the re-entry or dismount. Note that in this case a frontside lipslide involves facing forwards while a backside lipslide involves facing backwards. Also known as a Disaster slide."
+            },
+            {
+                "id": "slide-noseblunt",
+                "trickName": "Noseblunt",
+                "trickDescription": "Same as a blunt slide, only performed with the nose and the front wheels. 90-degree ollie over the object to be sliding, locking the nose into a slide position. Wheels drag across the ledge/platform like a power slide while the nose slides along the lip.  on a rail, the rider 'ollies over' into a nose slide position. The term noseblunt, in downhill or flatground riding, refers to a powerslide happening on only the front two wheels."
+            },
+            {
+                "id": "slide-nose-grab-tail-drag",
+                "trickName": "Nose grab tail drag",
+                "trickDescription": "The skater pops the board into his hand, grabs the nose, and pulls up so that the wheels come off the ground and only the tail is sliding."
+            },
+            {
+                "id": "slide-noseslide",
+                "trickName": "Noseslide",
+                "trickDescription": "A noseslide is performed by riding parallel to an obstacle (ledge, rail, etc...) The skateboarder then does an ollie and turns the board 90 degrees. They then land on the ledge with the nose of the board sliding on top of it. This can be done frontside or backside. The skateboarder can then come off the ledge either regular or fakie (backwards)."
+            },
+            {
+                "id": "slide-nosetail-5-0-slides",
+                "trickName": "Nose/Tail 5-0 Slides",
+                "trickDescription": "A 5-0 Slide can be done frontside or backside, with either the front two or the rear two wheels sliding on the ground while the rider is sliding standing up or with his hands on the pavement. If the nose or tail of the board slides on the ground it is considered a bluntslide."
+            },
+            {
+                "id": "slide-pendy-(pendulum)-slide",
+                "trickName": "Pendy (Pendulum) Slide",
+                "trickDescription": "This is a backside slide where the rider puts both hands on the street in front of their toes and extends their body out into a push-up position (you can also keep your knees bent in order to spin around faster), either returning to the original stance with a pendulum or rotating a full 180 degrees. A more difficult variation is to put only your uphill hand on the pavement and slide with your shoulders perpendicular to the ground. Toeside 360s can be done by continuing immediately into a frontside slide after the first 180 degrees."
+            },
+            {
+                "id": "slide-powerslide",
+                "trickName": "Powerslide",
+                "trickDescription": "The powerslide is a four wheel slide usually performed to stop the skateboard. It is performed by gaining speed, and turning the board 90 degrees while leaning the body back. The hands do not touch the ground when performing a powerslide. The skater can also turn the board more than 90 degrees resulting in the board continuing to roll and a very stylish maneuver. If the rider is going fast enough downhill it is possible to do powerslide rotations. Can also be done leaning forward but must be rotated the opposite way,  which makes it similar to a bert slide but without placing the hand on the ground."
+            },
+            {
+                "id": "slide-primoslide",
+                "trickName": "Primoslide",
+                "trickDescription": "The primoslide is a trick in which the rider flips the board and lands on it wheels and the side of the deck. It's mostly done on big boxes or on flat."
+            },
+            {
+                "id": "slide-push-up",
+                "trickName": "Push up",
+                "trickDescription": "Putting both hands on the ground, leaning on the toeside edge, and spinning clockwise on the ground."
+            },
+            {
+                "id": "slide-stink-bug",
+                "trickName": "Stink bug",
+                "trickDescription": "Leaning back on the board, putting one hand behind you on the ground while gripping the board between your legs. This is considered \"bad form\" in the downhill community."
+            },
+            {
+                "id": "slide-surrender-slide",
+                "trickName": "Surrender Slide",
+                "trickDescription": "Another downhill slide requiring slide gloves, a surrender slide is when a rider places both hands on the street in front of their board and lowers their upper body close to the pavement, extending their legs behind them and gripping the board with the sides of their feet. While not a particularly difficult or impressive slide, it is useful for linking together various other downhill slides. The wheels do not necessarily slide in a surrender because the deck remains pointing downhill, although it is possible to drift in this position."
+            },
+            {
+                "id": "slide-tailslide",
+                "trickName": "Tailslide",
+                "trickDescription": "Similar to the noseslide only when turning 90 degrees the tail of the board is landed on the edge of the ledge/rail."
+            }
+        ]
+    },
+    {
+        "id": "grind",
+        "category": "Grind",
+        "tricks": [
+            {
+                "id": "grind-5-0-grind",
+                "trickName": "5-0 grind",
+                "trickDescription": "Pronounced \"Five-Oh\". In this maneuver, the back truck grinds the rail/edge, while the front truck is suspended directly above the rail/edge. This move is similar to the manual, although the tail may be scraped against the obstacle as well as the back truck, which is not considered proper on a manual."
+            },
+            {
+                "id": "grind-nosegrind",
+                "trickName": "Nosegrind",
+                "trickDescription": "For a Nosegrind, the front truck grinds the obstacle, while the back truck is suspended over the rail/edge. It is similar to the nose manual, except performed on a rail, coping, or ledge. This move originated on vert, initially in the form of Neil Blender's New Deal (nose pivot to disaster), then by his more advanced progression of said move, the \"Newer Deal\", which left out the disaster part and just pivoted all the way back in."
+            },
+            {
+                "id": "grind-crooked-grind",
+                "trickName": "Crooked grind",
+                "trickDescription": "Also known as Crooks, Crux, Pointer Grind, or the K-grind after the man to whom the trick is most commonly accredited, Eric Koston. It is like a nosegrind, but the tail of the board is angled away from the rail/ledge on which the trick is performed, causing the edge of the deck's nose to also rub. Due to the lack of historical evidence there is no way to prove when this trick was first landed, nevertheless, both Eric Koston and Dan Peterka were the first two skaters documented purposely performing this trick in their respective H-Street's Next Generation video parts. As a result, both skateboarders are regarded as co-creators of this trick.[4]"
+            },
+            {
+                "id": "grind-overcrook-grind",
+                "trickName": "Overcrook grind",
+                "trickDescription": "Also known as Overcrooks, or Overcrux, is similar to the Crooked grind, but with the tail of the board being angled towards the far side of the rail/box."
+            },
+            {
+                "id": "grind-feeble-grind",
+                "trickName": "Feeble grind",
+                "trickDescription": "In this move, the back truck grinds a rail while the front truck hangs over the rail's far side. Professional skateboarer Josh Nelson is the inventor of this grind back in 1986 at the Del Mar skate ranch in Del Mar, California. The name feeble grind came from Josh Nelson's friend and fellow skateboarder Sean Donnelley. Sean used to call Josh \"the feeb\" which was short for feeble, because Nelson was so skinny and often had broken limbs and injuries from skateboarding. Many people watched Josh create this unique type of grind on the parking blocks that were mounted in the reservoir at the Del Mar Skate Ranch."
+            },
+            {
+                "id": "grind-smith-grind",
+                "trickName": "Smith grind",
+                "trickDescription": "This maneuver entails the back truck grinding an edge or rail, while the front truck hangs over the near side of the object, leaving the edge of the deck to rub the lip/edge. This trick was named after its inventor Mike Smith (skateboarder). It is considered by many to be the most difficult basic grind trick. The backside version known as a Monty Grind was originated by  Florida powerhouse Monty Nolder."
+            },
+            {
+                "id": "grind-willy-grind",
+                "trickName": "Willy grind",
+                "trickDescription": "Popularized by Willy Santos. Very rarely executed, the Willy is done with the front truck sliding on the grinding surface (as in a nose grind) while the back truck hangs down below the surface on the side to which the skateboarder approached. Also called \"Lazy Grind\", \"Nosesmith\", or \"Scum Grind.\""
+            },
+            {
+                "id": "grind-losi-grind",
+                "trickName": "Losi grind",
+                "trickDescription": "Popularized by Allen Losi. Can be best described as an Overcrook with the tail hanging below a rail or with wheels sliding along on a ledge or as a Willy with the tail on the other side of the obstacle. Also called \"Nosefeeble,\" \"Over Willy Grind\" or \"Over-Scum,\" or \"Bag-Lady Grind.\""
+            },
+            {
+                "id": "grind-suski-grind",
+                "trickName": "Suski grind",
+                "trickDescription": "Popularized by Aaron Suski. Very similar to the 5-0 but the front truck is turned outward like a smith grind. The difference between a Smith and a Suski is that the tail is pressed downward and the front truck is raised up instead of being dipped low. Simply a raised or \"blunted\" smith grind."
+            },
+            {
+                "id": "grind-salad-grind",
+                "trickName": "Salad grind",
+                "trickDescription": "Like the Suski, but the front truck is turned inward like a feeble grind. The back truck is locked on the rail, the tail is pressed downward, and the front truck is raised up instead of being dipped low. Simply a raised or \"blunted\" feeble grind."
+            },
+            {
+                "id": "grind-hurricane-grind",
+                "trickName": "Hurricane grind",
+                "trickDescription": "The \"cane\" variations involve turning 180 to land in some sort of smith/feeble variation. Generally the \"cane\" variations should finish by turning back the way they came, so that the rider will land in the same stance from which he started(unless stated otherwise- ie. \"hurricane to fakie\".) The Hurricane is a 180 into a fakie feeble grind, and a 180 back out, landing in the original stance. It is a similar motion to a boardslide, but over-rotated so that the back truck locks on the obstacle. This trick was invented on vert by Neil Blender in 1985; an early proto-version can by witnessed in Powell Peralta's second video, Future Primitive, during Blender's brief cameo appearance on Lance Mountain's backyard ramp."
+            },
+            {
+                "id": "grind-sugarcane-grind",
+                "trickName": "Sugarcane grind",
+                "trickDescription": "The Sugarcane is an alley-oop 180 into a fakie smith grind, and a 180 back out, landing in the original stance. It is a similar motion to a lipslide (where the back truck must pass over the obstacle), but over-rotated so that the back truck locks on the obstacle."
+            },
+            {
+                "id": "grind-novacane-grind",
+                "trickName": "Novacane grind",
+                "trickDescription": "The Novacane is an alley-oop 180 into a switch feeble grind, with a 180 back out, landing in the original stance. It's a similar motion to the Sugarcane, but instead of landing the back truck on the obstacle in fakie smith, the front truck locks on in switch feeble."
+            },
+            {
+                "id": "grind-bennett-grind",
+                "trickName": "Bennett grind",
+                "trickDescription": "Popularized by Matt Bennett. For a Bennett grind the rider must approach frontside and do a backside 180 into a switch backside smith grind. This trick name is exclusively for the version of the trick where the rider approaches frontside."
+            },
+            {
+                "id": "grind-barley-grind",
+                "trickName": "Barley grind",
+                "trickDescription": "The opposite of a Bennett. The rider approaches backside and does a frontside 180 into a switch frontside smith grind. This trick name is exclusively for the version of the trick where the rider approaches backside."
+            },
+            {
+                "id": "grind-caveman-grinds",
+                "trickName": "Caveman grinds",
+                "trickDescription": "A caveman grind is when a skater, instead of ollieing up onto a rail, starts with the board in his hand, places it onto the rail in the desired grind position and at the same time jumps onto the board, starting the grind."
+            },
+            {
+                "id": "grind-5-0-hand-drag",
+                "trickName": "5-0 hand drag",
+                "trickDescription": "This trick is a 5-0 and while doing one, you drag your back hand on the rail/ledge."
+            },
+            {
+                "id": "grind-tractor-grind",
+                "trickName": "Tractor grind",
+                "trickDescription": "5-0 Hand Drag with the front hand"
+            },
+            {
+                "id": "grind-nosegrind-hand-drag",
+                "trickName": "Nosegrind hand drag",
+                "trickDescription": "This trick is a nosegrind while you drag your back hand on the rail/ledge."
+            },
+            {
+                "id": "grind-layback-grind",
+                "trickName": "Layback grind",
+                "trickDescription": "This is a classic variation of the basic frontside or backside grind whereupon the skater leans back (\"lays back\") and places their trailing hand on or near the lip being ground, ostensibly to help \"push\" the grind further. Original Bones Brigade member Jay Smith did the earliest and most popular frontside examples, slashing out violently at the lip with his board while placing his hand well down the transition, in a very \"surf-style\" pose. By 1979 the move was being taken up on top of the lip (both truck and hand) by Duane Peters, the distinction being noted by the adjustment of the name to \"layback roll-out\", or, occasionally, \"layback grind-to-tail\". The backside version was introduced by Eddie \"El Gato\" Elguera later that same year."
+            },
+            {
+                "id": "grind-wax-the-rail",
+                "trickName": "Wax the rail",
+                "trickDescription": "When you do a Nosegrind Hand Drag with the front hand. Invented by Brandon Tumber of Slaughterhouse fame."
+            },
+            {
+                "id": "grind-primo-slidesgrinds",
+                "trickName": "Primo slides/grinds",
+                "trickDescription": "When in rail stance and slide on the ledge slash rail. Primo grind in when you grind on both wheels/bearings in rail stance."
+            },
+            {
+                "id": "grind-body-varial-grinds",
+                "trickName": "Body varial grinds",
+                "trickDescription": "When you turn your body 180 while the board slides. Almost always done on grind that doesn't require pressure with feet."
+            },
+            {
+                "id": "grind-5-0-overturn",
+                "trickName": "5-0 overturn",
+                "trickDescription": "When the rider does a 5-0 and turns 180 while grinding to turn the trick into a nosegrind."
+            },
+            {
+                "id": "grind-nosegrind-overturn",
+                "trickName": "Nosegrind overturn",
+                "trickDescription": "Also called Nosegrind to Pivot. When the rider is grinding on the front truck and turns 180 while grinding, making it into a 5-0."
+            },
+            {
+                "id": "grind-crail-grind",
+                "trickName": "Crail grind",
+                "trickDescription": "5-0 Back hand nosegrab"
+            },
+            {
+                "id": "grind-seatbelt-grind",
+                "trickName": "Seatbelt grind",
+                "trickDescription": "Nosegrind front hand tailgrab."
+            },
+            {
+                "id": "grind-coffin-50-50",
+                "trickName": "Coffin 50-50",
+                "trickDescription": "While lying on the board on your back whilst you're doing a 50-50 grind. Invented by Mark Nicolson (Death Skateboards, Squadrophenia 2004)."
+            },
+            {
+                "id": "grind-tailblock-grind",
+                "trickName": "Tailblock grind",
+                "trickDescription": "Tailslide nosegrab"
+            },
+            {
+                "id": "grind-noseblock-grind",
+                "trickName": "Noseblock grind",
+                "trickDescription": "Nosegrind tailgrab"
+            },
+            {
+                "id": "grind-hang-ten-nosegrind",
+                "trickName": "Hang-ten nosegrind",
+                "trickDescription": "Nosegrind when both of your feet are on the nose with your toes pointing forward."
+            },
+            {
+                "id": "grind-hang-five-nosegrind",
+                "trickName": "Hang-five nosegrind",
+                "trickDescription": "A one footed nose grind with your toe pointing forward."
+            },
+            {
+                "id": "grind-handstand-grinds",
+                "trickName": "Handstand grinds",
+                "trickDescription": "Require a long rail. Jump into a grind, then do a handstand on the board while grinding."
+            }
+        ]
+    },
+    {
+        "id": "ollie",
+        "category": "Ollie",
+        "tricks": [
+            {
+                "id": "ollie-switch-ollie",
+                "trickName": "Switch Ollie",
+                "trickDescription": "an Ollie performed in the stance opposite of a rider's normal stance. (Switch Stance)."
+            },
+            {
+                "id": "ollie-nollie",
+                "trickName": "Nollie",
+                "trickDescription": "an Ollie performed using the front foot to snap the nose down."
+            },
+            {
+                "id": "ollie-fakie-ollie",
+                "trickName": "Fakie Ollie",
+                "trickDescription": "an ollie done while riding backwards"
+            },
+            {
+                "id": "ollie-the-chinese-ollie",
+                "trickName": "The Chinese Ollie",
+                "trickDescription": "executed without hitting the tail of the skateboard to the ground, instead the skateboarder uses cracks in the sidewalk, by \"bouncing\" off them, to get air-time."
+            },
+            {
+                "id": "ollie-ollie-180",
+                "trickName": "Ollie 180",
+                "trickDescription": "an Ollie where the skateboarder and the skateboard spins 180 degrees after leaving the ground. Both the skateboarder and the skateboard rotate in the same direction (Frontside or Backside) with the skateboarder's feet sticking to the skateboard. This trick is usually referred to as a frontside or backside 180, or less frequently and more popular with older skateboarders and/or when performed on a bank/quarterpipe, a frontside / backside ollie"
+            },
+            {
+                "id": "ollie-nollie-180",
+                "trickName": "Nollie 180",
+                "trickDescription": "just like the Ollie 180 but done from a Nollie."
+            },
+            {
+                "id": "ollie-half-cab",
+                "trickName": "Half-Cab",
+                "trickDescription": "just like the Ollie 180 but done in fakie. If rotated 360 degrees the trick is called a Full-Cab or Caballerial, named after Steve Caballero who invented them as aerials in pools. Cab and half-cab spins only include fakie backside. A fakie frontside 180 is not a half-cab."
+            },
+            {
+                "id": "ollie-switch-ollie-180",
+                "trickName": "Switch Ollie 180",
+                "trickDescription": "just like the Ollie 180 but done from a Switch Ollie."
+            },
+            {
+                "id": "ollie-ollie-360",
+                "trickName": "Ollie 360",
+                "trickDescription": "is a full 360 rotation of the body and board together in one motion, whether front-side or back-side can be attained from this variation."
+            },
+            {
+                "id": "ollie-one-foot",
+                "trickName": "One Foot",
+                "trickDescription": "an Ollie where the front foot is kicked forward over the nose of the board."
+            },
+            {
+                "id": "ollie-ollie-north",
+                "trickName": "Ollie North",
+                "trickDescription": "the original name for the one foot"
+            },
+            {
+                "id": "ollie-boned-ollie",
+                "trickName": "Boned Ollie",
+                "trickDescription": "an ollie where the board is dipped down and the legs are practically horizontal, like a \"Melon Grab\" but without the skateboarder actually grabbing the skateboard."
+            },
+            {
+                "id": "ollie-ghost-ollie",
+                "trickName": "Ghost Ollie",
+                "trickDescription": "an ollie where the skateboarder's feet are above the board but the board and the skateboarder are still in air."
+            },
+            {
+                "id": "ollie-pop-shuvit",
+                "trickName": "Pop-Shuvit",
+                "trickDescription": "is an Ollie variation with the snap of the tail rotating the board 180 or 360 beneath the rider and catching it in mid-air. A Pressure-flip has a similar aspect from this trick, but only by applying pressure back-toe inward while jumping, will the rider make a rotation and inward flip successful."
+            },
+            {
+                "id": "ollie-primo-ollie",
+                "trickName": "Primo Ollie",
+                "trickDescription": "is an Ollie performed when standing in a primo position or when doing a primo slide. A primo Ollie is executed in the same way as an Ollie but the side of the front foot levels out the board instead of the top of the foot."
+            },
+            {
+                "id": "ollie-hop-ollie",
+                "trickName": "Hop Ollie",
+                "trickDescription": "an Ollie using only one foot, such as a \"Hop Nollie\" [9] (not the same as a no-comply)"
+            }
+        ]
+    },
+    {
+        "id": "aerial",
         "category": "Aerial",
         "tricks": [
             {
@@ -216,591 +800,7 @@
         ]
     },
     {
-        "categoryId": "slide",
-        "category": "Slide",
-        "tricks": [
-            {
-                "id": "slide-anti-casper-slide",
-                "trickName": "Anti-Casper Slide",
-                "trickDescription": "Performed by flipping the board into a nosecasper via half impossible and sliding on the nose in a nose casper position."
-            },
-            {
-                "id": "slide-bananaslide",
-                "trickName": "Bananaslide",
-                "trickDescription": "A combination of a tailslide and a nose slide between two obstacles at the same time. Rarely seen as not many obstacles allow you to do this trick"
-            },
-            {
-                "id": "slide-bertslide",
-                "trickName": "Bertslide",
-                "trickDescription": "A four-wheeled slide where the skateboarder puts one hand on the ground and rotates the board while it is still on the ground, effectively sliding on the wheels of the skateboard.[1] The trick was named after the surfer Larry Bertlemann, who performed the trick in his surfing routine.[2] It was then popularized by the Z-Boys, who adapted the move by extending the slide to 360 or even 540 degrees.[2]"
-            },
-            {
-                "id": "slide-bluntslide",
-                "trickName": "Bluntslide",
-                "trickDescription": "Performed by ollieing over/onto the obstacle and fitting the edge/rail between the tail and back truck of one's skateboard and sliding. Can be performed on flat ground (called a bluntstop)[3] or downhill, possibly with only the tip of the board sliding on the street and all four wheels lifted."
-            },
-            {
-                "id": "slide-boardslide-aka-railslide",
-                "trickName": "Boardslide, aka railslide",
-                "trickDescription": "The board straddles the obstacle perpendicularly as the skateboarder slides along the center of the board. Most commonly when people refer to boardslides, it is a backside boardslide unless stated otherwise. The basic board slide also goes by many names, like: \"back board,\" \"bs board,\" \"b-slide,\" and heavily depends on your vernacular."
-            },
-            {
-                "id": "slide-casperslide",
-                "trickName": "Casperslide",
-                "trickDescription": "A casperslide is performed by flipping the board into an up-side down state with one foot on the bottom (now top) of the tail and the front foot underneath the front truck (griptape side) and sustaining momentum, thus sliding on the tip of the board's concave. It  can be performed on rails (rarely done) or flat ground. Often Attributed to Rodney Mullen."
-            },
-            {
-                "id": "slide-cess-slide",
-                "trickName": "Cess Slide",
-                "trickDescription": "This is a four-wheeled slide performed on inclines, banks, ditches, and transition. most common riding frontside or straight up the transition. At the peak of momentum, the rider unweights the board and slides the back wheels up to 'catch up' with the rest of the body at 90 degrees. Then as  the body's momentum returns, the rider pivots the back truck while sliding the front wheels 90 degrees back toward the bottom of the incline.  Simply put, backside shred up, pivot back down. A fun lazy way of riding transition backside. if you ride up frontside, you do this trick in a backside 'alley-oop' fashion. This is also very common in backyard pool riding, due to the benefits of 'feeling' your way around the cement."
-            },
-            {
-                "id": "slide-coleman-slide",
-                "trickName": "Coleman Slide",
-                "trickDescription": "This is where a rider wearing sliding gloves performs a frontside slide using their downhill hand with the glove to break the wheels free of traction while swinging the uphill hand close to the body to revert the board back from the initial slide in a pendulum motion. Named after slalom champion and sliding godfather Cliff Coleman, it is regarded as a staple trick in downhill sliding because it allows riders to see what is coming at them (objects, cars, hazards) all while in control, as well as allow them to slow down. A Coleman slide can also be used to initiate a frontside spin if the rider ends the slide at 180 degrees instead of swinging back to the original stance with a pendulum. If the rider flows into a backside slide with one smooth motion, it is possible to do 360 spins and more."
-            },
-            {
-                "id": "slide-crail-slide",
-                "trickName": "Crail Slide",
-                "trickDescription": "This is a tailslide where the skater grabs the nose of the board with the back hand while sliding. Usually performed on a ramp. It comes from the same idea as the more popular Lien Slide, in that in both tricks the skater grabs the board to help put it in position for the tailslide. Since the invention of the Ollie, it is more common to Ollie into a tailslide."
-            },
-            {
-                "id": "slide-darkslide",
-                "trickName": "Darkslide",
-                "trickDescription": "The Dark slide is a seemingly complicated looking trick in which the rider approaches a ledge or rail and does a flip trick onto the obstacle so that the rider lands on the board upside down with their feet on the nose and the tail and slides across the obstacle. Generally a half-kickflip or half-heelflip is the flip trick used to get into a darkslide. Created by Mark Gonzales in 1991.[4]"
-            },
-            {
-                "id": "slide-flat-spin",
-                "trickName": "Flat spin",
-                "trickDescription": "A hands-down rotation in the Surrender position. The slide can either be initiated by diving forward into a surrender slide and slinging the board around with your legs, or by doing a frontside or backside 360 and continuing the spin in a surrender position. Skilled riders can rotate as much as 1440 degrees or even more (there is no official record). Once the technique is perfected it allows you to rotate fast and slide very far while losing very little momentum due to the rider's weight being on his gloves when his board is sliding and on his board when it is pointing downhill and rolling."
-            },
-            {
-                "id": "slide-layback",
-                "trickName": "Layback",
-                "trickDescription": "Also known as a Sergio slide (named after the Brazilian inventor of the move, Sergio Yuppie), a layback is a frontside slide performed while riding downhill by placing your uphill hand on the ground behind the tail of your board and breaking the rear wheels out of traction. From here you can rotate 180 degrees, swing a pendulum, or hold the slide at 90 degrees and thrust your pelvis upward to unweight the board, resulting in a longer slide. The last variation is considered to be the most challenging and stylish, but often results in flat spots on your wheels. Like all hands-down slides, this trick requires slide gloves to be executed at speed."
-            },
-            {
-                "id": "slide-lipslide",
-                "trickName": "Lipslide",
-                "trickDescription": "Similar to a boardslide only the skater turns 90 degrees so that the trailing trucks are placed over the rail/ledge/coping and the skater slides on the middle of the board. Considered more complex than a boardslide due to the rotation over the obstacle at the beginning into the trick and the re-entry or dismount. Note that in this case a frontside lipslide involves facing forwards while a backside lipslide involves facing backwards. Also known as a Disaster slide."
-            },
-            {
-                "id": "slide-noseblunt",
-                "trickName": "Noseblunt",
-                "trickDescription": "Same as a blunt slide, only performed with the nose and the front wheels. 90-degree ollie over the object to be sliding, locking the nose into a slide position. Wheels drag across the ledge/platform like a power slide while the nose slides along the lip.  on a rail, the rider 'ollies over' into a nose slide position. The term noseblunt, in downhill or flatground riding, refers to a powerslide happening on only the front two wheels."
-            },
-            {
-                "id": "slide-nose-grab-tail-drag",
-                "trickName": "Nose grab tail drag",
-                "trickDescription": "The skater pops the board into his hand, grabs the nose, and pulls up so that the wheels come off the ground and only the tail is sliding."
-            },
-            {
-                "id": "slide-noseslide",
-                "trickName": "Noseslide",
-                "trickDescription": "A noseslide is performed by riding parallel to an obstacle (ledge, rail, etc...) The skateboarder then does an ollie and turns the board 90 degrees. They then land on the ledge with the nose of the board sliding on top of it. This can be done frontside or backside. The skateboarder can then come off the ledge either regular or fakie (backwards)."
-            },
-            {
-                "id": "slide-nosetail-5-0-slides",
-                "trickName": "Nose/Tail 5-0 Slides",
-                "trickDescription": "A 5-0 Slide can be done frontside or backside, with either the front two or the rear two wheels sliding on the ground while the rider is sliding standing up or with his hands on the pavement. If the nose or tail of the board slides on the ground it is considered a bluntslide."
-            },
-            {
-                "id": "slide-pendy-(pendulum)-slide",
-                "trickName": "Pendy (Pendulum) Slide",
-                "trickDescription": "This is a backside slide where the rider puts both hands on the street in front of their toes and extends their body out into a push-up position (you can also keep your knees bent in order to spin around faster), either returning to the original stance with a pendulum or rotating a full 180 degrees. A more difficult variation is to put only your uphill hand on the pavement and slide with your shoulders perpendicular to the ground. Toeside 360s can be done by continuing immediately into a frontside slide after the first 180 degrees."
-            },
-            {
-                "id": "slide-powerslide",
-                "trickName": "Powerslide",
-                "trickDescription": "The powerslide is a four wheel slide usually performed to stop the skateboard. It is performed by gaining speed, and turning the board 90 degrees while leaning the body back. The hands do not touch the ground when performing a powerslide. The skater can also turn the board more than 90 degrees resulting in the board continuing to roll and a very stylish maneuver. If the rider is going fast enough downhill it is possible to do powerslide rotations. Can also be done leaning forward but must be rotated the opposite way,  which makes it similar to a bert slide but without placing the hand on the ground."
-            },
-            {
-                "id": "slide-primoslide",
-                "trickName": "Primoslide",
-                "trickDescription": "The primoslide is a trick in which the rider flips the board and lands on it wheels and the side of the deck. It's mostly done on big boxes or on flat."
-            },
-            {
-                "id": "slide-push-up",
-                "trickName": "Push up",
-                "trickDescription": "Putting both hands on the ground, leaning on the toeside edge, and spinning clockwise on the ground."
-            },
-            {
-                "id": "slide-stink-bug",
-                "trickName": "Stink bug",
-                "trickDescription": "Leaning back on the board, putting one hand behind you on the ground while gripping the board between your legs. This is considered \"bad form\" in the downhill community."
-            },
-            {
-                "id": "slide-surrender-slide",
-                "trickName": "Surrender Slide",
-                "trickDescription": "Another downhill slide requiring slide gloves, a surrender slide is when a rider places both hands on the street in front of their board and lowers their upper body close to the pavement, extending their legs behind them and gripping the board with the sides of their feet. While not a particularly difficult or impressive slide, it is useful for linking together various other downhill slides. The wheels do not necessarily slide in a surrender because the deck remains pointing downhill, although it is possible to drift in this position."
-            },
-            {
-                "id": "slide-tailslide",
-                "trickName": "Tailslide",
-                "trickDescription": "Similar to the noseslide only when turning 90 degrees the tail of the board is landed on the edge of the ledge/rail."
-            }
-        ]
-    },
-    {
-        "categoryId": "ollie",
-        "category": "Ollie",
-        "tricks": [
-            {
-                "id": "ollie-switch-ollie",
-                "trickName": "Switch Ollie",
-                "trickDescription": "an Ollie performed in the stance opposite of a rider's normal stance. (Switch Stance)."
-            },
-            {
-                "id": "ollie-nollie",
-                "trickName": "Nollie",
-                "trickDescription": "an Ollie performed using the front foot to snap the nose down."
-            },
-            {
-                "id": "ollie-fakie-ollie",
-                "trickName": "Fakie Ollie",
-                "trickDescription": "an ollie done while riding backwards"
-            },
-            {
-                "id": "ollie-the-chinese-ollie",
-                "trickName": "The Chinese Ollie",
-                "trickDescription": "executed without hitting the tail of the skateboard to the ground, instead the skateboarder uses cracks in the sidewalk, by \"bouncing\" off them, to get air-time."
-            },
-            {
-                "id": "ollie-ollie-180",
-                "trickName": "Ollie 180",
-                "trickDescription": "an Ollie where the skateboarder and the skateboard spins 180 degrees after leaving the ground. Both the skateboarder and the skateboard rotate in the same direction (Frontside or Backside) with the skateboarder's feet sticking to the skateboard. This trick is usually referred to as a frontside or backside 180, or less frequently and more popular with older skateboarders and/or when performed on a bank/quarterpipe, a frontside / backside ollie"
-            },
-            {
-                "id": "ollie-nollie-180",
-                "trickName": "Nollie 180",
-                "trickDescription": "just like the Ollie 180 but done from a Nollie."
-            },
-            {
-                "id": "ollie-half-cab",
-                "trickName": "Half-Cab",
-                "trickDescription": "just like the Ollie 180 but done in fakie. If rotated 360 degrees the trick is called a Full-Cab or Caballerial, named after Steve Caballero who invented them as aerials in pools. Cab and half-cab spins only include fakie backside. A fakie frontside 180 is not a half-cab."
-            },
-            {
-                "id": "ollie-switch-ollie-180",
-                "trickName": "Switch Ollie 180",
-                "trickDescription": "just like the Ollie 180 but done from a Switch Ollie."
-            },
-            {
-                "id": "ollie-ollie-360",
-                "trickName": "Ollie 360",
-                "trickDescription": "is a full 360 rotation of the body and board together in one motion, whether front-side or back-side can be attained from this variation."
-            },
-            {
-                "id": "ollie-one-foot",
-                "trickName": "One Foot",
-                "trickDescription": "an Ollie where the front foot is kicked forward over the nose of the board."
-            },
-            {
-                "id": "ollie-ollie-north",
-                "trickName": "Ollie North",
-                "trickDescription": "the original name for the one foot"
-            },
-            {
-                "id": "ollie-boned-ollie",
-                "trickName": "Boned Ollie",
-                "trickDescription": "an ollie where the board is dipped down and the legs are practically horizontal, like a \"Melon Grab\" but without the skateboarder actually grabbing the skateboard."
-            },
-            {
-                "id": "ollie-ghost-ollie",
-                "trickName": "Ghost Ollie",
-                "trickDescription": "an ollie where the skateboarder's feet are above the board but the board and the skateboarder are still in air."
-            },
-            {
-                "id": "ollie-pop-shuvit",
-                "trickName": "Pop-Shuvit",
-                "trickDescription": "is an Ollie variation with the snap of the tail rotating the board 180 or 360 beneath the rider and catching it in mid-air. A Pressure-flip has a similar aspect from this trick, but only by applying pressure back-toe inward while jumping, will the rider make a rotation and inward flip successful."
-            },
-            {
-                "id": "ollie-primo-ollie",
-                "trickName": "Primo Ollie",
-                "trickDescription": "is an Ollie performed when standing in a primo position or when doing a primo slide. A primo Ollie is executed in the same way as an Ollie but the side of the front foot levels out the board instead of the top of the foot."
-            },
-            {
-                "id": "ollie-hop-ollie",
-                "trickName": "Hop Ollie",
-                "trickDescription": "an Ollie using only one foot, such as a \"Hop Nollie\" [9] (not the same as a no-comply)"
-            }
-        ]
-    },
-    {
-        "categoryId": "grind",
-        "category": "Grind",
-        "tricks": [
-            {
-                "id": "grind-5-0-grind",
-                "trickName": "5-0 grind",
-                "trickDescription": "Pronounced \"Five-Oh\". In this maneuver, the back truck grinds the rail/edge, while the front truck is suspended directly above the rail/edge. This move is similar to the manual, although the tail may be scraped against the obstacle as well as the back truck, which is not considered proper on a manual."
-            },
-            {
-                "id": "grind-nosegrind",
-                "trickName": "Nosegrind",
-                "trickDescription": "For a Nosegrind, the front truck grinds the obstacle, while the back truck is suspended over the rail/edge. It is similar to the nose manual, except performed on a rail, coping, or ledge. This move originated on vert, initially in the form of Neil Blender's New Deal (nose pivot to disaster), then by his more advanced progression of said move, the \"Newer Deal\", which left out the disaster part and just pivoted all the way back in."
-            },
-            {
-                "id": "grind-crooked-grind",
-                "trickName": "Crooked grind",
-                "trickDescription": "Also known as Crooks, Crux, Pointer Grind, or the K-grind after the man to whom the trick is most commonly accredited, Eric Koston. It is like a nosegrind, but the tail of the board is angled away from the rail/ledge on which the trick is performed, causing the edge of the deck's nose to also rub. Due to the lack of historical evidence there is no way to prove when this trick was first landed, nevertheless, both Eric Koston and Dan Peterka were the first two skaters documented purposely performing this trick in their respective H-Street's Next Generation video parts. As a result, both skateboarders are regarded as co-creators of this trick.[4]"
-            },
-            {
-                "id": "grind-overcrook-grind",
-                "trickName": "Overcrook grind",
-                "trickDescription": "Also known as Overcrooks, or Overcrux, is similar to the Crooked grind, but with the tail of the board being angled towards the far side of the rail/box."
-            },
-            {
-                "id": "grind-feeble-grind",
-                "trickName": "Feeble grind",
-                "trickDescription": "In this move, the back truck grinds a rail while the front truck hangs over the rail's far side. Professional skateboarer Josh Nelson is the inventor of this grind back in 1986 at the Del Mar skate ranch in Del Mar, California. The name feeble grind came from Josh Nelson's friend and fellow skateboarder Sean Donnelley. Sean used to call Josh \"the feeb\" which was short for feeble, because Nelson was so skinny and often had broken limbs and injuries from skateboarding. Many people watched Josh create this unique type of grind on the parking blocks that were mounted in the reservoir at the Del Mar Skate Ranch."
-            },
-            {
-                "id": "grind-smith-grind",
-                "trickName": "Smith grind",
-                "trickDescription": "This maneuver entails the back truck grinding an edge or rail, while the front truck hangs over the near side of the object, leaving the edge of the deck to rub the lip/edge. This trick was named after its inventor Mike Smith (skateboarder). It is considered by many to be the most difficult basic grind trick. The backside version known as a Monty Grind was originated by  Florida powerhouse Monty Nolder."
-            },
-            {
-                "id": "grind-willy-grind",
-                "trickName": "Willy grind",
-                "trickDescription": "Popularized by Willy Santos. Very rarely executed, the Willy is done with the front truck sliding on the grinding surface (as in a nose grind) while the back truck hangs down below the surface on the side to which the skateboarder approached. Also called \"Lazy Grind\", \"Nosesmith\", or \"Scum Grind.\""
-            },
-            {
-                "id": "grind-losi-grind",
-                "trickName": "Losi grind",
-                "trickDescription": "Popularized by Allen Losi. Can be best described as an Overcrook with the tail hanging below a rail or with wheels sliding along on a ledge or as a Willy with the tail on the other side of the obstacle. Also called \"Nosefeeble,\" \"Over Willy Grind\" or \"Over-Scum,\" or \"Bag-Lady Grind.\""
-            },
-            {
-                "id": "grind-suski-grind",
-                "trickName": "Suski grind",
-                "trickDescription": "Popularized by Aaron Suski. Very similar to the 5-0 but the front truck is turned outward like a smith grind. The difference between a Smith and a Suski is that the tail is pressed downward and the front truck is raised up instead of being dipped low. Simply a raised or \"blunted\" smith grind."
-            },
-            {
-                "id": "grind-salad-grind",
-                "trickName": "Salad grind",
-                "trickDescription": "Like the Suski, but the front truck is turned inward like a feeble grind. The back truck is locked on the rail, the tail is pressed downward, and the front truck is raised up instead of being dipped low. Simply a raised or \"blunted\" feeble grind."
-            },
-            {
-                "id": "grind-hurricane-grind",
-                "trickName": "Hurricane grind",
-                "trickDescription": "The \"cane\" variations involve turning 180 to land in some sort of smith/feeble variation. Generally the \"cane\" variations should finish by turning back the way they came, so that the rider will land in the same stance from which he started(unless stated otherwise- ie. \"hurricane to fakie\".) The Hurricane is a 180 into a fakie feeble grind, and a 180 back out, landing in the original stance. It is a similar motion to a boardslide, but over-rotated so that the back truck locks on the obstacle. This trick was invented on vert by Neil Blender in 1985; an early proto-version can by witnessed in Powell Peralta's second video, Future Primitive, during Blender's brief cameo appearance on Lance Mountain's backyard ramp."
-            },
-            {
-                "id": "grind-sugarcane-grind",
-                "trickName": "Sugarcane grind",
-                "trickDescription": "The Sugarcane is an alley-oop 180 into a fakie smith grind, and a 180 back out, landing in the original stance. It is a similar motion to a lipslide (where the back truck must pass over the obstacle), but over-rotated so that the back truck locks on the obstacle."
-            },
-            {
-                "id": "grind-novacane-grind",
-                "trickName": "Novacane grind",
-                "trickDescription": "The Novacane is an alley-oop 180 into a switch feeble grind, with a 180 back out, landing in the original stance. It's a similar motion to the Sugarcane, but instead of landing the back truck on the obstacle in fakie smith, the front truck locks on in switch feeble."
-            },
-            {
-                "id": "grind-bennett-grind",
-                "trickName": "Bennett grind",
-                "trickDescription": "Popularized by Matt Bennett. For a Bennett grind the rider must approach frontside and do a backside 180 into a switch backside smith grind. This trick name is exclusively for the version of the trick where the rider approaches frontside."
-            },
-            {
-                "id": "grind-barley-grind",
-                "trickName": "Barley grind",
-                "trickDescription": "The opposite of a Bennett. The rider approaches backside and does a frontside 180 into a switch frontside smith grind. This trick name is exclusively for the version of the trick where the rider approaches backside."
-            },
-            {
-                "id": "grind-caveman-grinds",
-                "trickName": "Caveman grinds",
-                "trickDescription": "A caveman grind is when a skater, instead of ollieing up onto a rail, starts with the board in his hand, places it onto the rail in the desired grind position and at the same time jumps onto the board, starting the grind."
-            },
-            {
-                "id": "grind-5-0-hand-drag",
-                "trickName": "5-0 hand drag",
-                "trickDescription": "This trick is a 5-0 and while doing one, you drag your back hand on the rail/ledge."
-            },
-            {
-                "id": "grind-tractor-grind",
-                "trickName": "Tractor grind",
-                "trickDescription": "5-0 Hand Drag with the front hand"
-            },
-            {
-                "id": "grind-nosegrind-hand-drag",
-                "trickName": "Nosegrind hand drag",
-                "trickDescription": "This trick is a nosegrind while you drag your back hand on the rail/ledge."
-            },
-            {
-                "id": "grind-layback-grind",
-                "trickName": "Layback grind",
-                "trickDescription": "This is a classic variation of the basic frontside or backside grind whereupon the skater leans back (\"lays back\") and places their trailing hand on or near the lip being ground, ostensibly to help \"push\" the grind further. Original Bones Brigade member Jay Smith did the earliest and most popular frontside examples, slashing out violently at the lip with his board while placing his hand well down the transition, in a very \"surf-style\" pose. By 1979 the move was being taken up on top of the lip (both truck and hand) by Duane Peters, the distinction being noted by the adjustment of the name to \"layback roll-out\", or, occasionally, \"layback grind-to-tail\". The backside version was introduced by Eddie \"El Gato\" Elguera later that same year."
-            },
-            {
-                "id": "grind-wax-the-rail",
-                "trickName": "Wax the rail",
-                "trickDescription": "When you do a Nosegrind Hand Drag with the front hand. Invented by Brandon Tumber of Slaughterhouse fame."
-            },
-            {
-                "id": "grind-primo-slidesgrinds",
-                "trickName": "Primo slides/grinds",
-                "trickDescription": "When in rail stance and slide on the ledge slash rail. Primo grind in when you grind on both wheels/bearings in rail stance."
-            },
-            {
-                "id": "grind-body-varial-grinds",
-                "trickName": "Body varial grinds",
-                "trickDescription": "When you turn your body 180 while the board slides. Almost always done on grind that doesn't require pressure with feet."
-            },
-            {
-                "id": "grind-5-0-overturn",
-                "trickName": "5-0 overturn",
-                "trickDescription": "When the rider does a 5-0 and turns 180 while grinding to turn the trick into a nosegrind."
-            },
-            {
-                "id": "grind-nosegrind-overturn",
-                "trickName": "Nosegrind overturn",
-                "trickDescription": "Also called Nosegrind to Pivot. When the rider is grinding on the front truck and turns 180 while grinding, making it into a 5-0."
-            },
-            {
-                "id": "grind-crail-grind",
-                "trickName": "Crail grind",
-                "trickDescription": "5-0 Back hand nosegrab"
-            },
-            {
-                "id": "grind-seatbelt-grind",
-                "trickName": "Seatbelt grind",
-                "trickDescription": "Nosegrind front hand tailgrab."
-            },
-            {
-                "id": "grind-coffin-50-50",
-                "trickName": "Coffin 50-50",
-                "trickDescription": "While lying on the board on your back whilst you're doing a 50-50 grind. Invented by Mark Nicolson (Death Skateboards, Squadrophenia 2004)."
-            },
-            {
-                "id": "grind-tailblock-grind",
-                "trickName": "Tailblock grind",
-                "trickDescription": "Tailslide nosegrab"
-            },
-            {
-                "id": "grind-noseblock-grind",
-                "trickName": "Noseblock grind",
-                "trickDescription": "Nosegrind tailgrab"
-            },
-            {
-                "id": "grind-hang-ten-nosegrind",
-                "trickName": "Hang-ten nosegrind",
-                "trickDescription": "Nosegrind when both of your feet are on the nose with your toes pointing forward."
-            },
-            {
-                "id": "grind-hang-five-nosegrind",
-                "trickName": "Hang-five nosegrind",
-                "trickDescription": "A one footed nose grind with your toe pointing forward."
-            },
-            {
-                "id": "grind-handstand-grinds",
-                "trickName": "Handstand grinds",
-                "trickDescription": "Require a long rail. Jump into a grind, then do a handstand on the board while grinding."
-            }
-        ]
-    },
-    {
-        "categoryId": "freestyle",
-        "category": "Freestyle",
-        "tricks": [
-            {
-                "id": "freestyle-5050-truckstandprimo",
-                "trickName": "50/50 Truckstand/primo",
-                "trickDescription": "A 50/50 truckstand is when the board is balanced nearly vertical with the back foot standing on the truck and the front hand holding the nose. The typical way to perform a 50/50 truckstand is to put the board into nosestop, grasp the board with the back hand, jump and toss it to the front hand and land with the back foot on the truck, then execute a half-finger flip to land it.\n"
-            },
-            {
-                "id": "freestyle-casper",
-                "trickName": "Casper",
-                "trickDescription": "A freestyle stance where the skateboard is upside down and balanced on the point of the tail. The skater's back foot is on the underside of the tail and the front foot is hooked under the deck (touching the front foot to the ground is not a proper Casper). Named for inventor Bobby \"Casper\" Boyden.\n"
-            },
-            {
-                "id": "freestyle-railstand",
-                "trickName": "Railstand",
-                "trickDescription": "In a Railstand, the skateboard is balanced on one edge with the rider standing on the opposite edge, usually with the feet also on the wheels. This position can be used as a set-up for many other tricks, and was invented in the 1970s by Bobby \"Casper\" Boyden.\n"
-            },
-            {
-                "id": "freestyle-360-spin",
-                "trickName": "360 Spin",
-                "trickDescription": "1970s skate competitions such as the ones shown in Lords of Dogtown would often have an event to see who could do the most consecutive 360 spins on a skateboard. Variations include one-foot spins (on the nose or tail, or grabbing the foot while spinning), two-foot spins (on the nose or tail), crossfoot spins, two-board spins, etc.\n"
-            },
-            {
-                "id": "freestyle-bigspin",
-                "trickName": "Bigspin",
-                "trickDescription": "A trick in which the board rotates 360-degrees while the skateboarder turns 180 degrees in the same direction above it. If the skateboarder rotates in the opposite direction of the skateboard it is called Anti-Bigspin. This can be done in any direction from any position, and in freestyle is often done following a Casper.\n"
-            },
-            {
-                "id": "freestyle-gazelle",
-                "trickName": "Gazelle",
-                "trickDescription": "A Gazelle is a 540-degree rotation of the board while the rider spins 360 degrees in the same direction above it. It is usually done off the front end of the board and spun backside while travelling forwards, but can be done in any direction and combined with flips. Effectively, this is the next step up from a Bigspin.\n"
-            },
-            {
-                "id": "freestyle-shove-it",
-                "trickName": "Shove-it",
-                "trickDescription": "A Shove-it is a 180-degree spin (instead of a flip) of the board. The name may have qualifiers added to describe the direction of spin (frontside or backside) or a higher amount of spin. In freestyle, the trick is usually performed off the front of the board while riding forwards, which helps ensure flat and fast spins. In streetstyle, Shove-Its are often popped (called a Pop Shuvit) from either end of the board. Frontside or backside rotations are possible. A Shove-it should spin totally flat, in contrast to an Impossible which should spin totally vertical.\n"
-            },
-            {
-                "id": "freestyle-walk-the-dog",
-                "trickName": "Walk The Dog",
-                "trickDescription": "A footwork trick which spins the board.  The front foot is positioned in the middle of the board while the back foot steps to the nose and brings it backwards, spinning the board 180 degrees. With practice, this trick can be done in quick repetition – or backwards – though a slow performance can create an illusion of speed.\n"
-            },
-            {
-                "id": "freestyle-end-over",
-                "trickName": "End-Over",
-                "trickDescription": "An End-Over is a series of 180-degree pivots, beginning on the nose (or the tail when rolling fakie). Pressure is placed on the nose to lift the back wheels, then the rider quickly turns 180 degrees (frontside or backside), pivoting on the nose while maintaining speed and direction of travel. One pilot is immediately followed by another in the opposite rotation; when these pivots are done in consecutive lines, they are considered End-Overs (end-over-end). It is not uncommon to mix more difficult pivots in to a sequence of End-Overs, such as a 360 pivot or one-foot pivot.\n"
-            },
-            {
-                "id": "freestyle-butter-flip",
-                "trickName": "Butter Flip",
-                "trickDescription": "The Butter Flip is executed following a Heelside Railstand. Both feet hop to one side of the board, side by side with no more than a 2-inch (5 cm) gap. The rider puts pressure onto the end of the board, using the foot that is not on the wheel. This pops the board up, allowing it to be grasped with the hand opposite the foot which applied pressure. This trick is used to transition from Heelside Railstand to a Pogo or 50/50. The board can also be caught with the foot, making it a Butter Flip to a No Handed 50/50. The trick is named for its inventor, Keith Butterfield.\n"
-            },
-            {
-                "id": "freestyle-fingerflip",
-                "trickName": "Fingerflip",
-                "trickDescription": "A Fingerflip uses a flick of the fingers to flip the skateboard. Typically, the rider rolls forward, grabs the nose of the board with the front hand, then simultaneously jumps and flips the unweighted board with their hand. The rider will then come down on the board or catch the board in mid-air. There are numerous variations including the Double Fingerflip, Varial Fingerflip, Backhand Fingerflip, and 360 Fingerflip, and Fakie versions of these. Ollie Fingerflip variations are considered to be more difficult because the rider must Ollie before initiating the Fingerflip. Professional freestyler Darryl Grogan is known for his Ollie 360 Fingerflip, and Rodney Mullen is known to use an Ollie Varial Fingerflip in many of his runs and videos.\n"
-            },
-            {
-                "id": "freestyle-kickflip",
-                "trickName": "Kickflip",
-                "trickDescription": "This trick begins with the rider positioned with feet side-by-side pointed toward the nose; one foot (typically the back foot) is hooked around the edge of the board. The opposite foot pushes down and the hooked foot kicks sideways as the rider jumps, the rider's body turning to land in a normal riding position. Invented by Curt Lindgren. \n"
-            },
-            {
-                "id": "freestyle-kickback",
-                "trickName": "Kickback",
-                "trickDescription": "A trick involving a half flip backwards followed by one-and-a-half flips forwards. From a stance with the front foot on the front bolts and the toes of the back foot along the heelside edge in the middle of the board, it can be accomplished by pushing down on the toes of the back foot, then jumping, kicking the board forwards, and catching it on the grip tape.\n"
-            },
-            {
-                "id": "freestyle-ollie",
-                "trickName": "Ollie",
-                "trickDescription": "The Ollie is a trick in which the rider and board leap into the air without use of the rider's hands. The rider stomps on the tail of the board to bring it mostly vertical, jumps, bends the knees as the skateboard springs up, and slides the front foot forward to level the skateboard at the peak of the jump. It was originally developed by Alan \"Ollie\" Gelfand in a bowl, and bought to flat ground by Rodney Mullen. It is considered a fundamental skill in skateboarding, needed to leap onto, over, or off of obstacles.\n"
-            },
-            {
-                "id": "freestyle-pogo",
-                "trickName": "Pogo",
-                "trickDescription": "A trick in which the skateboard is used like a pogo stick. The board is held vertical against the boarder's legs, with one foot on the bottom truck and one or both hands holding the nose to lift the board up as the rider hops. It can also be done by squeezing the board between both legs in a no-handed variant, or stood with one foot on the truck and the other crossed over behind it with the toes of that foot pushing against the griptape for a cross-footed pogo.\n"
-            },
-            {
-                "id": "freestyle-primo-slide",
-                "trickName": "Primo Slide",
-                "trickDescription": "This trick requires balancing like a Railstand but is done while moving, with the side of the board sliding along the ground. Invented by Primo Desiderio, the original version involved sliding backside 180 degrees, but many skaters now hold them in a straight line, flipping into and out of them.\n"
-            },
-            {
-                "id": "freestyle-coconut-wheelie-coco-slide",
-                "trickName": "Coconut Wheelie, Coco Slide",
-                "trickDescription": "A Coconut Wheelie or Coco Slide is like a Primo Slide but the deck never touches the ground, instead being held in a Wheelie on the side. This trick was invented by coach Vince W.[1] Variations include handstands, grabs, transfer to spacewalk, etc.\n"
-            },
-            {
-                "id": "freestyle-calf-wrap-(flamingofigure-four)",
-                "trickName": "Calf Wrap (Flamingo/Figure Four)",
-                "trickDescription": "A trick in which the skater uses one foot to wrap the board around the calf of their opposite leg, which is planted on the ground, then unwraps it to land in a riding position. An earlier version of this trick was called \"Flamingo\" or \"Figure Four\" for the stance of the legs in mid-trick, with the board touching the inside knee or thigh. This was not often used until the faster calf-wrap version was developed to accommodate a backside 180 re-entry on banks and ramps. The trick was invented by Derek Belen, and developed and popularized by Mike Vallely, Rey Gregorio, Dorian Tucker and Kris Markovich.\n"
-            },
-            {
-                "id": "freestyle-manual",
-                "trickName": "Manual",
-                "trickDescription": "A Manual is a trick similar to a bicycle wheelie where the skateboarder balances with only the front or the back wheels touching the ground. Manuals can be done with either or both feet or on a single wheel. A Manual in which both feet are straight on the nose is called a Hang Ten; its tail counterpart is called a Heelie. English Manuals place the back foot at the back bolts and the front foot underneath the nose, hooking the board up until balance is achieved. The Swedish Manual (likely named after Stefan \"Lillis\" Akesson) places the front foot on the nose pointing forward and the back toes are used to hook the tail up in a Nose Manual.\n"
-            },
-            {
-                "id": "freestyle-impossible",
-                "trickName": "Impossible",
-                "trickDescription": "In an Impossible, the board wraps vertically over the back foot in a 360-degree rotation. An early version of the trick (now called a Nosehook Impossible) involved hooking the front foot under the nose to lift the board before the back foot began its scoop; later, Rodney Mullen developed the technique by popping in an Ollie from a regular riding position. There are many variations of both the Nosehook Impossible and the Ollie Impossible. Darryl Grogan was the first to land Impossibles Crossfooted, Halfcab, and to make a one-foot landing, while Mullen has done many variations off the nose, known as Nollie Impossibles.\n"
-            },
-            {
-                "id": "freestyle-broken-fingers",
-                "trickName": "Broken Fingers",
-                "trickDescription": "This is a Half Truckhook Impossible caught in a 50/50. The rider stands on the tail, puts the front foot under the board, and jumps backwards while scooping the board in front. This will cause the board to flip upside-down. The rider catches the tail of the board with the front hand and lands with the foot which was under the board on the truck. This trick got the name \"Broken Fingers\" due to the danger involved: failing to jump high enough or lean back sufficiently on the landing can result in crushed fingers. A no-handed version of this trick is referred to as a crossfooted Half Truckhook Impossible caught into a No-Handed 50/50.\n"
-            },
-            {
-                "id": "freestyle-casper-disaster",
-                "trickName": "Casper Disaster",
-                "trickDescription": "Also invented by Bobby \"Casper\" Boyden, this trick has no relation to the Casper stance. While rolling fakie or nollie, the skater enters a Heelside Railstand one footed. The foot that is not touching the wheel will point down and nudge the griptape side of the skateboard while the rider spins 180 degrees towards the direction of the trucks. After the board and rider have rotated 180 degrees, the feet work together to nudge the skateboard down into a rolling position.\n"
-            },
-            {
-                "id": "freestyle-carousel",
-                "trickName": "Carousel",
-                "trickDescription": "This is a specific truck-to-truck transfer, which may be considered as a half Impossible from a 50/50 to a switch 50/50 – still standing on the back foot. The rider starts from a 50/50, \"throws\" the board over the foot that stands on the truck and jumps up. When the board has done the \"half wrap\", the rider lands on the truck and catches the nose of the board with the same hand used to flip it. In 2014, Marco Sassi became the first person to do a 360 Carousel, completing a full impossible around the foot to land back in the original 50/50 position. (By July 2015[needs update] only two other freestylers have accomplished this.)\n"
-            },
-            {
-                "id": "freestyle-fan-flip",
-                "trickName": "Fan Flip",
-                "trickDescription": "A Fan Flip begins from a Pogo stance. The rider jumps up, fingerflips (typically with the front hand), and kicks to the side, landing on the truck in a Pogo stance (usually on the same side).\n"
-            },
-            {
-                "id": "freestyle-gingersnap",
-                "trickName": "Gingersnap",
-                "trickDescription": "While in a Hang Ten (Manual) position, the skater pops down on the nose, causing the board to do a Nollie Hardflip motion, traveling vertically between the riders legs and landing back in normal position. If the half flip is done with a Nosegrab, the trick is referred to as a Hazze Flip, named for Hazze Lindgren.\n"
-            },
-            {
-                "id": "freestyle-godzilla-flip",
-                "trickName": "Godzilla Flip",
-                "trickDescription": "This trick involves standing with one foot on the board in Tailstop and spinning the board in an Impossible around that foot with a hand. Either foot and either hand can be used, but neither foot should touch the ground. Not to be confused with the Godzilla Railflip, which is a Triple Varial Railflip with a Body Varial.\n"
-            },
-            {
-                "id": "freestyle-helipop",
-                "trickName": "Helipop",
-                "trickDescription": "A backside 360 Nollie, performed by beginning a pivot just before initiating a Nollie, with the front foot on the nose of the board and the back foot in Nollie Heelflip position. Invented by Rodney Mullen. If a full 360 cannot be achieved, the rider may recover by landing in a 270 and pivoting the rest of the way on the back wheels. Variations: grabs, frontside, flips out.\n"
-            },
-            {
-                "id": "freestyle-m-80",
-                "trickName": "M-80",
-                "trickDescription": "This trick begins with a Kickflip, turning the rider's body in the air to catch the board with the back foot on the nose, pivoting 180 degrees on the front wheels before the back wheels hit the ground. It was invented by Matt Barden in 1980. Many variations have been developed, including a Nose M-80 (which omits the body varial and lands the front foot on the nose), fakie and double flip versions.\n"
-            },
-            {
-                "id": "freestyle-no-comply",
-                "trickName": "No Comply",
-                "trickDescription": "In this trick the front foot slides off the side of the board, with the body weight on the back foot over the tail; the board then snaps upwards and the rider jumps, guiding the board with the back leg or knee, and returns the front foot into contact with the board. This trick has many variations, including 180, 360, Varials, Flips, Fingerflips, Impossibles, etc. Ray Barbee is noted as a master of No Comply variations to many who have watched the earlier Powell videos.\n"
-            },
-            {
-                "id": "freestyle-ollie-airwalk",
-                "trickName": "Ollie Airwalk",
-                "trickDescription": "This trick is a combination of an Ollie with an Airwalk.[clarification needed] The rider initiates an Ollie and grabs the board with the front hand, while kicking the front foot forward and the back foot backwards (diagonal to the riding direction). This trick was invented by Rodney Mullen, and has many variations, including fingerflips and 180 spins.\n"
-            },
-            {
-                "id": "freestyle-pressure-flip",
-                "trickName": "Pressure Flip",
-                "trickDescription": "This is a flip using only one foot (either), with the board launched into the air and flipped with one motion. Like Ollie Flips, Pressure Flips can be done nollie or fakie in any combination of flipping and rotational directions. The trick most commonly spins backside, flipping in a heelflip direction, resulting in something similar to an Inward Heelflip.\n"
-            },
-            {
-                "id": "freestyle-san-francisco-flip",
-                "trickName": "San Francisco Flip",
-                "trickDescription": "The San Francisco Flip is a type of a Truck-To-Transfer where the rider enters a No-Handed 50/50 and does a No-Handed Carousel to a Crossfoot No-Handed 50/50. Invented by Guenter Mokulys.\n"
-            },
-            {
-                "id": "freestyle-saran-wrapwrap-around",
-                "trickName": "Saran Wrap/Wrap Around",
-                "trickDescription": "Invented by Rodney Mullen, and usually done from a Pogo or a 50/50, this trick involves the front leg tracing a circle around the nose of the board without touching the ground. Experienced skaters can do several Saran Wraps continuously.\n"
-            },
-            {
-                "id": "freestyle-scarewalk",
-                "trickName": "Scarewalk",
-                "trickDescription": "A scarewalk is a back-handed Airwalk,[clarification needed] resulting in the board being held in close proximity to the rider's crotch (hence the name). It is sometimes erroneously thought to merely be an Airwalk with the legs kicked in the opposite direction.[citation needed]\n"
-            },
-            {
-                "id": "freestyle-sidewinder",
-                "trickName": "Sidewinder",
-                "trickDescription": "A truck-to-truck transfer where the rider switches from a pogo on one truck to a pogo on the other truck with the board upside-down throughout. During the trick, the board turns over about 90 degrees. Variations: switch foot, same foot and flips.\n"
-            },
-            {
-                "id": "freestyle-spacewalk",
-                "trickName": "Spacewalk",
-                "trickDescription": "Another kind of \"Walk\" in freestyle skateboarding. The rider enters a Manual on two wheels and swings the other end of the board from side-to-side; the other set of wheels should not touch the ground during the trick. The wider the swing, the better the Spacewalk looks. The Many variations exist including Nose Spacewalks, Hang Ten Spacewalks, Backward Spacewalks, One-Knee-Kneeled Spacewalks (invented by Günter Mokulys) and many more.\n"
-            },
-            {
-                "id": "freestyle-tv-stand",
-                "trickName": "TV Stand",
-                "trickDescription": "A TV Stand is a handstand done in a 50/50. While in a 50/50 or Pogo, the rider grabs the bottom truck (the one with the back foot on) and performs a handstand with the other hand holding the nose of the board. The trick is landed by doing a half flip. A variation when grabbing the top truck is called a \"Jawbreaker\", invented by Primo Desiderio.\n"
-            },
-            {
-                "id": "freestyle-varial-kickflipheelflip",
-                "trickName": "Varial kickflip/heelflip",
-                "trickDescription": "A kickflip or heelflip with a twist; the kickflip is combined with a backside shove-it, and a heelflip is combined with a frontside one.\n"
-            },
-            {
-                "id": "freestyle-daffy",
-                "trickName": "Daffy",
-                "trickDescription": "This trick is done with two boards, one foot in a tailwheelie on one board and the other foot on the second board in a nosewheelie.[2] It is one of the oldest freestyle tricks and has been featured in the Girl Skateboards video Yeah Right!, Gus Van Sant's film Paranoid Park, and the Lords of Dogtown movie. The Tony Hawk's Underground game calls this a Yeah Right Manual.\n"
-            }
-        ]
-    },
-    {
-        "categoryId": "flip",
+        "id": "flip",
         "category": "Flip",
         "tricks": [
             {

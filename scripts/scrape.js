@@ -41,7 +41,7 @@ const main = async () => {
                 });
 
                 json.push({
-                    categoryId: createId(category),
+                    id: createId(category),
                     category,
                     tricks: tricksData,
                 });
