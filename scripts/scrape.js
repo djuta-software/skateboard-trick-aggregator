@@ -35,15 +35,15 @@ const main = async () => {
                     }
                     tricksData.push({
                         id: createId(`${category}-${trickName}`),
-                        trickName,
-                        trickDescription,
+                        name: trickName,
+                        description: trickDescription,
                     });
                 });
 
                 json.push({
                     id: createId(category),
-                    category,
-                    tricks: tricksData,
+                    title: category,
+                    data: tricksData,
                 });
             }
         )
