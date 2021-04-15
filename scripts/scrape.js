@@ -7,7 +7,7 @@ import { getText } from "../utils/request.js";
 const createId = (str) => slugify(str.toLowerCase());
 
 const main = async () => {
-    const tricksData = [];
+    const json = [];
 
     await Promise.all(
         sources.map(
@@ -19,6 +19,7 @@ const main = async () => {
                 trickDescriptionSelector,
                 trickParser,
             }) => {
+                const tricksData = [];
                 const html = await getText(url);
                 const root = parse(html);
                 const tricks = root.querySelectorAll(trickSelector);
@@ -34,16 +35,20 @@ const main = async () => {
                     }
                     tricksData.push({
                         id: createId(`${category}-${trickName}`),
-                        categoryId: createId(category),
-                        category,
                         trickName,
                         trickDescription,
                     });
                 });
+
+                json.push({
+                    categoryId: createId(category),
+                    category,
+                    tricks: tricksData,
+                });
             }
         )
     );
-    writeFileSync("data/tricks.json", JSON.stringify(tricksData, null, 4));
+    writeFileSync("data/tricks.json", JSON.stringify(json, null, 4));
 };
 
 main();
