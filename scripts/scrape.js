@@ -37,6 +37,14 @@ const main = async () => {
                         id: createId(`${category}-${trickName}`),
                         name: trickName,
                         description: trickDescription,
+                        hasVideos: false,
+                        youtubeIds: [
+                            "QkeOAcj8Y5k",
+                            "KJnZvKwgZaA",
+                            "VasSLuFO4wY",
+                            "GrOCMjotAuw",
+                            "jDZhiMMxlgM",
+                        ],
                     });
                 });
 
