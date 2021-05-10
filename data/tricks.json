@@ -7,52 +7,52 @@
                 "id": "ollie-switch-ollie",
                 "name": "Switch Ollie",
                 "description": "an Ollie performed in the stance opposite of a rider's normal stance. (Switch Stance).",
-                "hasVideos": false,
+                "hasVideos": true,
                 "youtubeIds": [
+                    "XY_fvQhpBEU",
+                    "VXMhdGCT2DM",
                     "QkeOAcj8Y5k",
-                    "KJnZvKwgZaA",
-                    "VasSLuFO4wY",
-                    "GrOCMjotAuw",
-                    "jDZhiMMxlgM"
+                    "tV92ujeTOhE",
+                    "aW-rOjiDJdE"
                 ]
             },
             {
                 "id": "ollie-nollie",
                 "name": "Nollie",
                 "description": "an Ollie performed using the front foot to snap the nose down.",
-                "hasVideos": false,
+                "hasVideos": true,
                 "youtubeIds": [
-                    "QkeOAcj8Y5k",
-                    "KJnZvKwgZaA",
-                    "VasSLuFO4wY",
-                    "GrOCMjotAuw",
-                    "jDZhiMMxlgM"
+                    "8edqWNXp0WY",
+                    "_hecdZGUY3A",
+                    "o7k95W2gAP0",
+                    "mcinaGJk01Y",
+                    "ZTocxRRyhnI"
                 ]
             },
             {
                 "id": "ollie-fakie-ollie",
                 "name": "Fakie Ollie",
                 "description": "an ollie done while riding backwards",
-                "hasVideos": false,
+                "hasVideos": true,
                 "youtubeIds": [
-                    "QkeOAcj8Y5k",
-                    "KJnZvKwgZaA",
-                    "VasSLuFO4wY",
-                    "GrOCMjotAuw",
-                    "jDZhiMMxlgM"
+                    "lB-bUztQXjE",
+                    "UKG5J4DV2Wc",
+                    "0onlNi8FKzQ",
+                    "0soWnwXYYz0",
+                    "xSGpHeloVmM"
                 ]
             },
             {
                 "id": "ollie-the-chinese-ollie",
                 "name": "The Chinese Ollie",
                 "description": "executed without hitting the tail of the skateboard to the ground, instead the skateboarder uses cracks in the sidewalk, by \"bouncing\" off them, to get air-time.",
-                "hasVideos": false,
+                "hasVideos": true,
                 "youtubeIds": [
-                    "QkeOAcj8Y5k",
-                    "KJnZvKwgZaA",
-                    "VasSLuFO4wY",
-                    "GrOCMjotAuw",
-                    "jDZhiMMxlgM"
+                    "mcinaGJk01Y",
+                    "_hecdZGUY3A",
+                    "hgcKKhQg2iE",
+                    "vS-AriJ1Eco",
+                    "N9u0KFEbs3w"
                 ]
             },
             {

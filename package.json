@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node scripts/scrape.js"
+    "scrape": "node scripts/scrape.js",
+    "videos": "node scripts/videos.js"
   },
   "author": "",
   "type": "module",
